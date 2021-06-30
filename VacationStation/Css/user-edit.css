@@ -1,0 +1,14 @@
+body {
+  background:url(Background/bluefade.jpeg);
+  background-repeat: no-repeat;
+}
+
+#useredit {
+  background-color:rgba(220,220,220,0.3);
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  padding: 20px;
+  padding-top: 2px;
+}
